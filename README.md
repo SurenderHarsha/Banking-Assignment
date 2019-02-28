@@ -19,21 +19,21 @@ and savings. This is the customer field we can target to the most.
 
 ### Marital Status
 
-![GitHub Logo](Marital.png)
+![GitHub Logo](Marital.PNG)
 
 The correlation anaylsis shows that most single people are likely to make a deposit, again this makes sense as they are
 saving up for their future.
 
 ### Education
 
-![GitHub Logo](Education.png)
+![GitHub Logo](Education.PNG)
 
 Compared to University degree customers, the other customers are less likely to agree to the deposit. This might be most likely due to being ignorant of its benefits.
 
 
 ### Credit Default
 
-![GitHub Logo](Default.png)
+![GitHub Logo](Default.PNG)
 
 Customers with a good credit score and who pay the bills right on time are more likely to make term deposits.
 
